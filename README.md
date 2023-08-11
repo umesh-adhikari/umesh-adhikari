@@ -14,7 +14,7 @@
 
 - I wrote my Bachelor Thesis at **wilhelm-tel**
 
-- 📫 How to reach me **ContactUmeshAdhikari@gmail.com**
+- 📫 Reach me **ContactUmeshAdhikari@gmail.com**
 
 - ⚡ Fun fact **Self made, brave and adventurous.**
 
@@ -35,6 +35,9 @@
 
 
 <h3 align="left">Framework:</h3>
+
+
+<h3 align="left">Frontend:</h3>
 
 
 <h3 align="left">Database:</h3>
