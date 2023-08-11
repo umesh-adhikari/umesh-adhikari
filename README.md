@@ -23,7 +23,7 @@
 <a href="https://twitter.com/himalynnomad200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himalynnomad200" height="30" width="40" /></a>
 <a href="https://fb.com/himalayannomad200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himalayannomad200" height="30" width="40" /></a>
 <a href="https://instagram.com/himalayannomad200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himalayannomad200" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/himalayannomad200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="himalayannomad200" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@himalayannomad200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="himalayannomad200" height="30" width="40" /></a>
 </p>
 
 
