@@ -1,24 +1,22 @@
 <h1 align="left">Umesh Adhikari</h1>
-<h3 align="left">A passionate Software Engineer from Earth.</h3>
+<h3 align="left">A passionate software engineer from Earth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umesh-adhikari&label=Profile%20views&color=0e75b6&style=flat" alt="umesh-adhikari" /> </p>
 
-- I’m currently working as a Junior Software Engineer at **[PHORAX](https://phorax.com/)**
+- I’m currently working as a Junior Software Engineer at **[PHORAX](https://phorax.com/)**.
 
-- Previously worked as a Software Engineer (working Student) at **[rexx systems](https://www.rexx-systems.com/)**
-
-- Previously worked as a Software Engineer (working Student) at **[wilhelm-tel](https://www.wilhelm-tel.de/)**
+- I previously worked as a Software Engineer (working Student) at **[rexx systems](https://www.rexx-systems.com/)** and also at **[wilhelm-tel](https://www.wilhelm-tel.de/)**.
 
 - I have graduated with a Bachelor's degree in Computer Science
   from **[Hochschule für Angewandte Wissenschaften Hamburg (HAW Hamburg)](https://www.haw-hamburg.de/)**.
 
-- I wrote my Bachelor Thesis at **[wilhelm-tel](https://www.wilhelm-tel.de/)**
+- I wrote my Bachelor Thesis at **[wilhelm-tel](https://www.wilhelm-tel.de/)**.
 
-- Personal Dictionary Project **[Nepali German Dictionary](https://play.google.com/store/apps/details?id=nilamshirish.nepaligermandictionary)**
+- I am also involved in a personal project **[Nepali German Dictionary](https://play.google.com/store/apps/details?id=nilamshirish.nepaligermandictionary)**.
   
   <a href="mailto:ContactUmeshAdhikari@gmail.com?"><img src="https://img.shields.io/badge/Contact me-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-- ⚡ Fun fact **Self made, Brave and Adventurous.**
+- ⚡ Fun fact **Self made, brave and always up for adventure.**
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"></img>
 
