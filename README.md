@@ -14,9 +14,11 @@
 
 - I wrote my Bachelor Thesis at **[wilhelm-tel](https://www.wilhelm-tel.de/)**
 
+- Personal Dictionary Project [Nepali German Dictionary](https://play.google.com/store/apps/details?id=nilamshirish.nepaligermandictionary)
+  
   <a href="mailto:ContactUmeshAdhikari@gmail.com?"><img src="https://img.shields.io/badge/Contact me-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-- ⚡ Fun fact **Self made, brave and adventurous.**
+- ⚡ Fun fact **Self made, Brave and Adventurous.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
