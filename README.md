@@ -20,11 +20,11 @@
 
 - ⚡ Fun fact **Self made, brave and always up for adventure.**
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"></img>
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/himalynnomad200" target="blank"><img align="center" src="[https://raw.githubusercontent.com/umesh-adhikari/github-profile-readme-generator/master/src/images/icons/Social/x.svg](https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/x-twitter.svg)" alt="himalynnomad200" height="25" width="28" /></a>
+<a href="https://twitter.com/himalynnomad200" target="blank"><img align="center" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/x-twitter.svg" alt="himalynnomad200" height="25" width="28" /></a>
 <a href="https://fb.com/himalayannomad200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himalayannomad200" height="30" width="40" /></a>
 <a href="https://instagram.com/himalayannomad200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himalayannomad200" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@himalayannomad200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="himalayannomad200" height="30" width="40" /></a>
