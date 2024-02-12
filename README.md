@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umesh-adhikari&label=Profile%20views&color=0e75b6&style=flat" alt="umesh-adhikari" /> </p>
 
-- I’m currently working as a Junior Software Engineer at **[PHORAX](https://phorax.com/)**.
+- I’m currently working as a Software Engineer at **[PHORAX](https://phorax.com/)**.
 
 - I previously worked as a Software Engineer (working Student) at **[rexx systems](https://www.rexx-systems.com/)** and also at **[wilhelm-tel](https://www.wilhelm-tel.de/)**.
 
