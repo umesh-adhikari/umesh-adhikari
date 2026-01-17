@@ -82,7 +82,6 @@ Living, coding, and journaling between **Nepal ▸ Germany ▸ Switzerland ▸ A
 
 If you’re building something thoughtful—or planning an expedition worth documenting—drop a line:
 
-- 📬 `ContactUmeshAdhikari@gmail.com`
 - 🌐 [umeshadhikari.com.np](https://umeshadhikari.com.np/)
 - 📍 Split between German workspaces & European rail lines
 
