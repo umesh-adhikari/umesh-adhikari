@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://umeshadhikari.com.np/assets/images/profil.png" alt="Portrait of Umesh Adhikari" width="140" style="border-radius:28px; box-shadow:0 20px 60px rgba(2,6,23,.45);"/>
-  
   <h1 style="margin-top:16px; font-size:2.8rem;">Umesh Adhikari</h1>
   <p><strong>Technologist from the Himalaya ▸ Based in Germany ▸ Traveler of alpine ridgelines & city grids</strong></p>
   <p style="max-width:620px;">
