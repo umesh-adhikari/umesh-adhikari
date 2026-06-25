@@ -20,7 +20,7 @@
 
 | Countries explored | Years in Dev & DevOps | Next itinerary | Current Base |
 | --- | --- | --- | --- |
-| **10** | **7+** | **Slovenia** | **Germany** |
+| **10** | **7+** | **Austria** | **Germany** |
 
 > Himalayan roots ▸ EU journeys ▸ Always sketching routes between code commits and café notebooks.
 
